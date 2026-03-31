@@ -7,34 +7,63 @@
 
 **Backend Engineer | Python & AI Systems**
 
-I build backend systems with focus on clarity, performance, and reliability.
-My work is centered around API design, data processing, and practical AI integrations — especially where automation and structured workflows are required.
+I build backend systems with focus on **clarity, performance, and reliability**.  
+My work is centered around **API design, data processing, and practical AI integrations**, especially where automation and structured workflows are required.
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, TypeScript, C++ |
-| **AI & Data** | LlamaIndex, LangChain, Vector Databases (Redis/Qdrant) |
 | **Backend** | FastAPI, AdonisJS, REST APIs, SQL (PostgreSQL/MySQL) |
+| **AI & Data** | LlamaIndex, LangChain, Vector Databases (Redis/Qdrant) |
 | **Infrastructure** | Docker, GitHub Actions (CI/CD), Linux |
 
 ---
 
-### 🧪 Key Projects
-
-- **[Project-Aether](https://github.com/gabaoun/Project-Aether):** RAG-based search pipeline using LlamaIndex and Redis (HNSW), focused on improving query performance and structuring document retrieval workflows.
-- **[Multi-Gateway Payment](https://github.com/gabaoun/multi-gateway-payment-api):** Backend service that simulates multiple payment providers with fallback strategies to handle failures and maintain request flow.
-- **[CabaModel](https://github.com/gabaoun/CabaModel):** Experimental project exploring structured AI agent execution, with emphasis on tool usage and predictable outputs.
+## 🧪 Projects
 
 ---
 
-### 🎨 About Me
-- 🔊 Sound design and music production
-- 🎲 Tabletop RPGs and world-building
-- 🎮 Games, especially strategy and systems-heavy titles
+### 🔎 [Project-Aether](https://github.com/gabaoun/Project-Aether)
+RAG-based search pipeline using LlamaIndex and Redis.
+
+- Document retrieval workflow  
+- Semantic caching with Redis (HNSW)  
+- Focus on query performance and structure  
+
 ---
 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/gabriel-penha-dev/)
+### 💳 [Multi-Gateway Payment API](https://github.com/gabaoun/multi-gateway-payment-api)
+Backend service simulating multiple payment providers.
+
+- Fallback strategy for failed requests  
+- Modular provider integration  
+- Built with AdonisJS and Docker
+
+---
+
+### 📂 [OsCabaOrganiza](https://github.com/gabaoun/OsCabaOrganiza)
+CLI tool for organizing files using extension-based rules.
+
+- Batch processing with parallel execution  
+- Real-time directory monitoring  
+- Undo/redo system for safe operations  
+- Includes downloadable executable (GitHub Releases)
+
+---
+
+### 🤖 [CabaModel](https://github.com/gabaoun/CabaModel)
+Experimental project exploring structured AI agent execution.
+
+- Tool-based execution flow  
+- Input validation with Pydantic  
+- Focus on predictable outputs  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-penha-dev/
