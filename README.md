@@ -15,6 +15,8 @@ Hi, I'm Gabriel (Gabaoun) 🚀
 - **Infrastructure & DevOps:** Docker, GitHub Actions, Linux
 - **Game Development:** Unreal Engine 4/5, C++, Blueprints, Wwise/FMOD
 
+---
+
 ## 📌 Featured Projects
 
 - **OsCabaOrganiza** – CLI for organizing files with parallel processing and undo/redo.
