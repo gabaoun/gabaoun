@@ -5,9 +5,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Software Engineer | Backend & AI Implementation Specialist**
+**Backend Engineer | Python & AI Systems**
 
-I build robust, production-ready applications focusing on **clean code**, **performance**, and **reliable integrations**. I enjoy solving complex problems using Python and TypeScript, especially when involving AI workflows and system automation.
+I build backend systems with focus on clarity, performance, and reliability.
+My work is centered around API design, data processing, and practical AI integrations — especially where automation and structured workflows are required.
 
 ---
 
@@ -16,24 +17,24 @@ I build robust, production-ready applications focusing on **clean code**, **perf
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, TypeScript, C++ |
-| **AI Implementation** | LlamaIndex, LangChain, OpenAI/Gemini API, Vector Databases (Qdrant/Redis) |
-| **Backend** | FastAPI, Node.js (AdonisJS), REST APIs, SQL/NoSQL |
-| **DevOps & Tools** | Docker, GitFlow, GitHub Actions (CI/CD), Linux |
+| **AI & Data** | LlamaIndex, LangChain, Vector Databases (Redis/Qdrant) |
+| **Backend** | FastAPI, AdonisJS, REST APIs, SQL (PostgreSQL/MySQL) |
+| **Infrastructure** | Docker, GitHub Actions (CI/CD), Linux |
 
 ---
 
 ### 🧪 Key Projects
 
-- **[Project-Aether](https://github.com/gabaoun/Project-Aether):** A resilient RAG engine that uses **Semantic Caching** to speed up search results and **PII Masking** to ensure data security.
-- **[Multi-Gateway Payment](https://github.com/gabaoun/multi-gateway-payment-api):** A payment API built for reliability. It handles multiple providers and has automatic error recovery.
-- **[CabaModel](https://github.com/gabaoun/CabaModel):** An implementation of AI agents designed to follow strict instructions and use external tools efficiently.
+- **[Project-Aether](https://github.com/gabaoun/Project-Aether):** RAG-based search pipeline using LlamaIndex and Redis (HNSW), focused on improving query performance and structuring document retrieval workflows.
+- **[Multi-Gateway Payment](https://github.com/gabaoun/multi-gateway-payment-api):** Backend service that simulates multiple payment providers with fallback strategies to handle failures and maintain request flow.
+- **[CabaModel](https://github.com/gabaoun/CabaModel):** Experimental project exploring structured AI agent execution, with emphasis on tool usage and predictable outputs.
 
 ---
 
 ### 🎨 About Me
-- 🔊 **Sound Design:** I produce music and design audio experiences in my spare time.
-- 🎲 **Tabletop RPGs:** I love world-building and running D&D campaigns (Game Master).
-- 🎮 **Gaming:** Passionate about video games and board games, from tactical RPGs to card games like Magic: The Gathering.
+- 🔊 Sound design and music production
+- 🎲 Tabletop RPGs and world-building
+- 🎮 Games, especially strategy and systems-heavy titles
 ---
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/gabriel-penha-dev/)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/gabriel-penha-dev/)
