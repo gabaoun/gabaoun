@@ -32,3 +32,4 @@ Hi, I'm Gabriel (Gabaoun) 🚀
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/gabriel-penha-dev/
+- E-mail: penhagabriellima@gmail.com
