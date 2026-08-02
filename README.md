@@ -16,3 +16,9 @@ My work prioritizes clean architecture, non-blocking asynchronous execution, and
 - **AI & Orchestration:** RAG Pipelines (LlamaIndex Workflows), Google ADK Agent Orchestration, Vector Databases (Chroma Cloud, Redis HNSW)
 - **Data & Databases:** PostgreSQL, SQL optimization, Pandas, NumPy
 - **Infrastructure & Quality:** Docker, GitHub Actions (CI/CD), Pytest, SOLID principles, Git Flow
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/github/followers/gabaoun?style=social" />
+  <img src="https://img.shields.io/github/stars/gabaoun?style=social" />
+</p>
