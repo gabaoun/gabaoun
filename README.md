@@ -13,7 +13,7 @@ My work prioritizes clean architecture, non-blocking asynchronous execution, and
 
 ## 🛠️ Core Technologies
 - **Backend & APIs:** Python, FastAPI, Flask, RESTful Design, OAuth2/JWT
-- **AI & Orchestration:** RAG Pipelines (LlamaIndex Workflows), Google ADK Agent Orchestration, Vector Databases (Chroma Cloud, Redis HNSW)
+- **AI & Orchestration:** RAG Pipelines (LlamaIndex Workflows), Google ADK Agent Orchestration, Vector Databases (Chroma Cloud hybrid dense+sparse search), Redis (response caching)
 - **Data & Databases:** PostgreSQL, SQL optimization, Pandas, NumPy
 - **Infrastructure & Quality:** Docker, GitHub Actions (CI/CD), Pytest, SOLID principles, Git Flow
 
