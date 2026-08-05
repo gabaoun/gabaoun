@@ -17,6 +17,11 @@ My work prioritizes clean architecture, non-blocking asynchronous execution, and
 - **Data & Databases:** PostgreSQL, SQL optimization, Pandas, NumPy
 - **Infrastructure & Quality:** Docker, GitHub Actions (CI/CD), Pytest, SOLID principles, Git Flow
 
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpenhadev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabaoun)
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/github/followers/gabaoun?style=social" />
