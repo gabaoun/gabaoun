@@ -20,10 +20,20 @@ Event-driven **Retrieval-Augmented Generation (RAG)** search engine built on Pyt
 - **Tech Stack:** Python 3.11+, FastAPI, LlamaIndex, Chroma Cloud, Redis, Neo4j, Docker
 - **Highlights:** HyDE, GraphRAG, PEFT/LoRA reranking, sub-5ms Redis semantic cache, PII sanitization.
 
+### 🤖 [CabaModel](https://github.com/gabaoun/CabaModel)
+Gemini-native Agent Orchestration framework built on Google ADK & FastAPI using hexagonal architecture.
+- **Tech Stack:** Python, FastAPI, Google Agent Development Kit (ADK), Pydantic v2
+- **Highlights:** Clean ports & adapters architecture, schema validation, event stream handling, deployed live on Render.
+
 ### 💳 [multi-gateway-payment-api](https://github.com/gabaoun/multi-gateway-payment-api)
 Resilient multi-provider payment processing engine designed for high availability.
-- **Tech Stack:** TypeScript, AdonisJS, PostgreSQL, Docker, Redis
-- **Highlights:** Automated gateway failover, idempotent transactions, webhook handling, full unit/integration test coverage.
+- **Tech Stack:** TypeScript, AdonisJS 6, PostgreSQL, Docker, Redis
+- **Highlights:** Automated gateway failover, idempotent transactions, webhook handling, full test suite.
+
+### 📁 [OsCabaOrganiza](https://github.com/gabaoun/OsCabaOrganiza)
+High-performance file-system organization & daemon engine for Windows.
+- **Tech Stack:** Python, ThreadPoolExecutor, Watchdog Sentinel, JSON Journaling
+- **Highlights:** Parallel execution, real-time directory watching, transactional LIFO undo, batch archive decompression.
 
 ---
 
@@ -31,7 +41,7 @@ Resilient multi-provider payment processing engine designed for high availabilit
 
 - **Languages:** Python, C++, TypeScript, SQL
 - **Backend & Frameworks:** FastAPI, AdonisJS, Flask, RESTful Design, Event-Driven Architecture
-- **AI & Data Engineering:** RAG Pipelines, GraphRAG (Neo4j), Vector DBs (Chroma Cloud), Semantic Caching (Redis)
+- **AI & Data Engineering:** RAG Pipelines, GraphRAG (Neo4j), Vector DBs (Chroma Cloud), Semantic Caching (Redis), Google ADK
 - **Databases & Cache:** PostgreSQL, Neo4j, Redis
 - **DevOps & Quality:** Docker, GitHub Actions CI/CD, Pytest, Structured Logging, SOLID Principles
 
