@@ -35,6 +35,11 @@ High-performance file-system organization & daemon engine for Windows.
 - **Tech Stack:** Python, ThreadPoolExecutor, Watchdog Sentinel, JSON Journaling
 - **Highlights:** Parallel execution, real-time directory watching, transactional LIFO undo, batch archive decompression.
 
+### 🩺 [fastapi-neo4j-healthcheck](https://github.com/gabaoun/fastapi-neo4j-healthcheck)
+Zero-overhead Neo4j health check endpoint for FastAPI, published on PyPI.
+- **Tech Stack:** Python, FastAPI, Neo4j, Kubernetes
+- **Highlights:** Async driver reuse (no per-request connection overhead), Kubernetes liveness/readiness probe support.
+
 ---
 
 ## 🛠️ Core Stack & Expertise
