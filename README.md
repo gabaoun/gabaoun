@@ -7,9 +7,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-**Backend Software Engineer & Applied AI Specialist**
+**Backend Engineer | Python, FastAPI, Async APIs | RAG Pipelines & AI Agents**
 
-Backend Engineer specializing in Python, high-performance systems, data pipelines, and AI orchestration. Strong foundation in C++ and systems programming, focused on non-blocking asynchronous execution, event-driven architectures, and production-grade REST APIs.
+Backend Engineer building async REST APIs, telemetry pipelines, and AI systems (RAG and agent orchestration) in Python. Worked remotely on production FastAPI services at ZWIM (Mar 2025 - Jun 2026). Focused on non-blocking execution, event-driven architectures, and low memory footprint.
 
 ---
 
