@@ -9,7 +9,7 @@
 
 **Backend Engineer | Python, FastAPI, Async APIs | RAG Pipelines & AI Agents**
 
-Backend Engineer building async REST APIs, telemetry pipelines, and AI systems (RAG and agent orchestration) in Python. Worked remotely on production FastAPI services at ZWIM (Mar 2025 - Jun 2026). Focused on non-blocking execution, event-driven architectures, and low memory footprint.
+Backend Engineer building async REST APIs, telemetry pipelines, and AI systems (RAG and agent orchestration) in Python. Worked remotely on production FastAPI services at ZWIM (2025-2026). Focused on non-blocking execution, event-driven architectures, and low memory footprint.
 
 ---
 
